@@ -1,0 +1,13 @@
+Job Responsibilities
+
+Provide guidance with process design.
+Design, develop, and test automation workflows.
+Deploy RPA components including bots, robots, development tools, code repositories and logging tools.
+Support the launch and implementation of RPA solutions.
+Create process and end-user documentation.
+Assure the quality of the automation (QA processes).
+Work with Business Analysts, Scrum Masters, QA Analysts, Product Owners, and other cross-functional resources to define and deliver business impacting projects.
+Work directly with stakeholders to capture business requirements and translate them into technical approaches and designs that can be implemented.
+Collaborate with development team members to ensure proper implementation and integration of the solutions.
+Support deployments or troubleshoot production issues outside of work hours and participate in an on-call rotation as-needed.
+Maintain current knowledge of relevant technologies and business processes.
